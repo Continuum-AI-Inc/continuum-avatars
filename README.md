@@ -6,7 +6,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/Continuum-AI-Inc/avatars">
+  <a href="https://github.com/Continuum-AI-Inc/continuum-avatars">
     <img src="images/logo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,9 +20,9 @@
     <br />
 		<a href="https://continuum-ai.de/projects/avatars">View Demo</a>
     ·
-    <a href="https://github.com/Continuum-AI-Inc/avatars/issues">Report Bug</a>
+    <a href="https://github.com/Continuum-AI-Inc/continuum-avatars/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Continuum-AI-Inc/avatars/issues">Request Feature</a>
+    <a href="https://github.com/Continuum-AI-Inc/continuum-avatars/issues">Request Feature</a>
   </p>
 </div>
 
@@ -107,7 +107,7 @@ We invite you to join our community of developers and enthusiasts. Share your av
   - [ ] Drawings
   - [ ] Modern 2.5D Illustrations
 
-See the [open issues](https://github.com/Continuum-AI-Inc/avatars/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Continuum-AI-Inc/continuum-avatars/issues) for a full list of proposed features (and known issues).
 
 ## Contributing
 
@@ -130,17 +130,17 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Moritz Utcke - <info@continuum-ai.de>
 
-Project Link: [https://github.com/Continuum-AI-Inc/avatars](https://github.com/Continuum-AI-Inc/avatars)
+Project Link: [https://github.com/Continuum-AI-Inc/continuum-avatars](https://github.com/Continuum-AI-Inc/continuum-avatars)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Continuum-AI-Inc/avatars.svg?style=for-the-badge
-[contributors-url]: https://github.com/Continuum-AI-Inc/avatars/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Continuum-AI-Inc/avatars.svg?style=for-the-badge
-[forks-url]: https://github.com/Continuum-AI-Inc/avatars/network/members
-[stars-shield]: https://img.shields.io/github/stars/Continuum-AI-Inc/avatars.svg?style=for-the-badge
-[stars-url]: https://github.com/Continuum-AI-Inc/avatars/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Continuum-AI-Inc/avatars.svg?style=for-the-badge
-[issues-url]: https://github.com/Continuum-AI-Inc/avatars/issues
-[license-shield]: https://img.shields.io/github/license/Continuum-AI-Inc/avatars.svg?style=for-the-badge
-[license-url]: https://github.com/Continuum-AI-Inc/avatars/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Continuum-AI-Inc/continuum-avatars.svg?style=for-the-badge
+[contributors-url]: https://github.com/Continuum-AI-Inc/continuum-avatars/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Continuum-AI-Inc/continuum-avatars.svg?style=for-the-badge
+[forks-url]: https://github.com/Continuum-AI-Inc/continuum-avatars/network/members
+[stars-shield]: https://img.shields.io/github/stars/Continuum-AI-Inc/continuum-avatars.svg?style=for-the-badge
+[stars-url]: https://github.com/Continuum-AI-Inc/continuum-avatars/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Continuum-AI-Inc/continuum-avatars.svg?style=for-the-badge
+[issues-url]: https://github.com/Continuum-AI-Inc/continuum-avatars/issues
+[license-shield]: https://img.shields.io/github/license/Continuum-AI-Inc/continuum-avatars.svg?style=for-the-badge
+[license-url]: https://github.com/Continuum-AI-Inc/continuum-avatars/blob/master/LICENSE.txt

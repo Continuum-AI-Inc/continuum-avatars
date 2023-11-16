@@ -17,5 +17,10 @@
   },
   "dependencies": {
     "sharp": "^0.32.6"
-  }
+  },
+	"publishConfig": {
+		"registry": "https://registry.npmjs.org/",
+		"access": "public",
+		"tag": "latest"
+	}
 }
