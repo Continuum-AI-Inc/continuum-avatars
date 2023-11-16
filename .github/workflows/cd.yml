@@ -13,6 +13,12 @@ jobs:
       - uses: oven-sh/setup-bun@v1
 
       - run: bun install
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '20.x'
+      - run: npm install --platform=linux --arch=x64 sharp
+      
       - run: bun run benchmark
       - run: bun run test
       - uses: JS-DevTools/npm-publish@v3
