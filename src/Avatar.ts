@@ -4,13 +4,19 @@ import { createHash } from "crypto";
 import { walkSync, natsort } from "./utils";
 import sharp from "sharp";
 import { BackgroundType, AvatarType } from "./types";
+import { fileURLToPath } from "url";
+
+
+const currentFileURL = import.meta.url;
+const currentFilePath = fileURLToPath(currentFileURL);
+const packageRoot = path.dirname(currentFilePath);
 
 export class Avatar {
 	private format: string = "png";
 	private digestHex: string;
 	private hashArray: number[] = [];
 	private iter: number = 4;
-	private resourceDirectory: string = import.meta.dir + "/";
+	private resourceDirectory: string = packageRoot + "/";
 	private sets: string[];
 	private backgroundSets: string[];
 	private colors: string[];
@@ -47,7 +53,7 @@ export class Avatar {
 		this.iter = 4;
 		this.createHashes(hashCount);
 
-		this.resourceDirectory = import.meta.dir + "/";
+		this.resourceDirectory = packageRoot + "/";
 		// Get the list of backgrounds and RobotSets
 		this.sets = this.listDirectories(this.resourceDirectory + "sets");
 		this.backgroundSets = this.listDirectories(this.resourceDirectory + "backgrounds");
