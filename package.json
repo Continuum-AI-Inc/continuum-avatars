@@ -1,0 +1,21 @@
+{
+  "name": "@continuum-ai/avatars",
+  "module": "index.ts",
+	"types": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest",
+    "mitata": "^0.1.6"
+  },
+	"scripts": {
+		"benchmark": "ls benchmarks/ | xargs -I{} bun ./benchmarks/{}",
+		"test:cov": "bun test --coverage",
+		"test": "bun test"
+	},
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "sharp": "^0.32.6"
+  }
+}
