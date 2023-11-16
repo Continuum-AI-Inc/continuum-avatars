@@ -1,5 +1,6 @@
 {
   "name": "@continuum-ai/avatars",
+	"version": "1.0.1",
   "module": "index.ts",
 	"types": "index.ts",
   "type": "module",
